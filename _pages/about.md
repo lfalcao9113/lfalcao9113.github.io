@@ -5,7 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----Hello!
+---
+
+Hello!
 
 I am a researcher at the Institute for Health Policy Studies ([IEPS](https://ieps.org.br/institucional/#ancora-quemsomos)). I hold a PhD in Public Administration from the São Paulo School of Business Administration at Fundação Getulio Vargas ([FGV-EAESP](https://eaesp.fgv.br/en/about-eaesp)).
 
