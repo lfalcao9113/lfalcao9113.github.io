@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher at IEPS"
   location         : "Brazil"
-  employer         : "Instituto de Estudos para Políticas de Saúde"
+  employer         : "Instituto de Estudos para\n Políticas de Saúde"
   uri              : # URL
   email            : "lucas.facao@ieps.org.br" 
 
