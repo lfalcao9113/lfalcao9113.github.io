@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lucas Falcão / Research"
+title                    : "L. Falcão / Research"
 title_separator          : "-"
 name                     : &name "Lucas Falcão"
 description              : &description "Lucas Falcão's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Falcao"
+  name             : "Lucas Falcão"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at IEPS"
   location         : "Brazil"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : lucas-falcao9113# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
