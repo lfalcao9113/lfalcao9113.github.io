@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. Candidate in Public Administration and Government**, Fundação Getulio Vargas (FGV), 2021 -- Present
+* **Ph.D. in Public Administration and Government**, Fundação Getulio Vargas (FGV), 2021 -- 2025
   * Visiting Researcher at Duke University, Sanford School of Public Policy (2023 -- 2024)
   * Research focus: health economics, environment, and the Amazon.
 * **M.S. in Economics**, Universidade Federal do ABC (UFABC), 2017 -- 2019
@@ -50,14 +50,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
